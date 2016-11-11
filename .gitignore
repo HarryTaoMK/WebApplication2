@@ -1,3 +1,5 @@
 /WebApplication2/bin
 /WebApplication2/obj
 /packages
+/*.suo
+*.user
